@@ -1,0 +1,15 @@
+{
+  "name": "pokebot",
+  "version": "1.0.0",
+  "description": "A slackbot that alerts you to nearby pokemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Micky Cook",
+  "license": "ISC",
+  "dependencies": {
+    "pokemon-go-node-api": "^1.3.0",
+    "slackbots": "^0.5.1"
+  }
+}
