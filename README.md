@@ -6,11 +6,6 @@ A dead simple slackbot that alerts you to nearby pokemon.
 run npm install
 ```
 
-
-**Slack**
-	* Make a slackbot and get your access token. Check the [documentation](https://api.slack.com/bot-users) for help.
-	* Create a channel named pokemon.
-
 **Slack**
   * Make a slackbot and get your access token. Check the [documentation](https://api.slack.com/bot-users) for help.
   * Create a channel named pokemon.	
