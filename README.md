@@ -3,7 +3,7 @@ A dead simple slackbot that alerts you to nearby pokemon.
 
 ## Installation & Usage:
 ```
-run npm install
+npm install
 ```
 
 **Slack**
@@ -14,7 +14,7 @@ run npm install
 In the [index.js](./index.js) file, edit lines 10, 11, 18, 21, and 22 with your credentials and info.
 
 ```
-run node index.js
+node index.js
 ```
 
 
