@@ -14,6 +14,7 @@ run npm install
 **Fill in your credentials**
 In the [index.js](./index.js) file, edit lines 10, 11, 18, 21, and 22 with your credentials and info.
 
+```
 run node index.js
 ```
 ```javascript
