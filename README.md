@@ -5,7 +5,7 @@ A dead simple slackbot that alerts you to nearby pokemon.
 ```
 run npm install
 ```
-```javascript
+
 
 **Slack**
 	*Make a slackbot and get your access token. Check the [documentation](https://api.slack.com/bot-users) for help.
@@ -17,5 +17,5 @@ In the [index.js](./index.js) file, edit lines 10, 11, 18, 21, and 22 with your 
 ```
 run node index.js
 ```
-```javascript
+
 
